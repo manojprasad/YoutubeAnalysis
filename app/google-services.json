@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "217868037222",
+    "firebase_url": "https://nxtartmeter.firebaseio.com",
+    "project_id": "nxtartmeter",
+    "storage_bucket": "nxtartmeter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217868037222:android:da337b562ded7f79",
+        "android_client_info": {
+          "package_name": "com.informate.artmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217868037222-4ldfh8mvhrr2v03v44892n6ls9rbh27a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.informate.artmeter",
+            "certificate_hash": "3c12dc7813a2e79c17d0d6c843ae276c8b11782b"
+          }
+        },
+        {
+          "client_id": "217868037222-s0h03896dik5btplagpoj0oiu1aav5ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.informate.artmeter",
+            "certificate_hash": "528701d01b2e7b037107c60ba1522872fc09a8b4"
+          }
+        },
+        {
+          "client_id": "217868037222-3fcq3g6rj5gcb4d72cma2237atkc42e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfkos7CYo-MAFFNeIH4Ts57YDg9HXBpaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217868037222-3fcq3g6rj5gcb4d72cma2237atkc42e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217868037222:android:298b19f9b13920991351a7",
+        "android_client_info": {
+          "package_name": "com.nielsen.nextmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217868037222-3fcq3g6rj5gcb4d72cma2237atkc42e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfkos7CYo-MAFFNeIH4Ts57YDg9HXBpaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217868037222-3fcq3g6rj5gcb4d72cma2237atkc42e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217868037222:android:a807a55d5168b59e1351a7",
+        "android_client_info": {
+          "package_name": "com.nieslen.youtubetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217868037222-3fcq3g6rj5gcb4d72cma2237atkc42e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfkos7CYo-MAFFNeIH4Ts57YDg9HXBpaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217868037222-3fcq3g6rj5gcb4d72cma2237atkc42e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
